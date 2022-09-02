@@ -20,3 +20,5 @@ print(f"Te sześciany {x3}")
 print(commit)
 # zadanie 4
 print(test)
+#zadanie 5
+print(pozdro)

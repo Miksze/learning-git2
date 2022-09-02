@@ -18,3 +18,5 @@ x3 = [number * number * number for number in zbior]
 print(f"Te sześciany {x3}")
 #zadanie 3
 print(commit)
+# zadanie 4
+print(test)
